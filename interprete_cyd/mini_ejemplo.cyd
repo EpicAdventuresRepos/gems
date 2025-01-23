@@ -1,0 +1,8 @@
+[[ LABEL inicio ]]
+Tienes que elegir entre dos opciones.
+
+[[ OPTION GOTO inicio ]]Vuelves a empezar.
+[[ OPTION GOTO fin ]]Terminas.
+[[ CHOOSE ]]
+[[ LABEL fin ]]
+[[ END ]]
