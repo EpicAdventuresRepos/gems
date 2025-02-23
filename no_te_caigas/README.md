@@ -1,8 +1,8 @@
 # No te caigas.
 
 
-Juego de texto hecho por LupoA en el curso de XXX y añadido a este repostorio con su permiso.
-Enlace.
+Juego de texto hecho por LupoA en el curso de >> Programa en Python y añadido a este repostorio con su permiso.
+[Curso >> Programa en Python y haz tus propios juegos de texto](https://epicadventures.itch.io/programa-python)
 
 ---
 

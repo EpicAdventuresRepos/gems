@@ -14,3 +14,6 @@ Sencillo juego de texto de nuestro alumno LupoA en el que tienes que llegar al f
 
 ## interprete_cyd
 Prototipo funcional de intérprete de juegos creados con Choose Your Destiny. Con este intérprete puedes ejecutar los juegos en PC o escribir pruebas automáticas. Hecho por nuestroalumno Kara.
+
+## Trivial CAAD
+Juego de preguntas y respuestas que toma las preguntas de una web vía scraping.
